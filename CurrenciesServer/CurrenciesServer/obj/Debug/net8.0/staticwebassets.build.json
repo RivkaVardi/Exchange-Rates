@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TbMu8Ivwp3HUnvoMTgi7M8qTfRzYlxDgAxn1HvDko6Y=",
+  "Source": "CurrenciesServer",
+  "BasePath": "_content/CurrenciesServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

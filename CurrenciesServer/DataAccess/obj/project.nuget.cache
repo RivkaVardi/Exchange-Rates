@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F5C/PD+jzOP6GghDhsQe2G9BkG5JKACAmoifxi1FPc2XGE+1vTmmbOtQ97U6TjJMgIqny1XFrwtwlcGAV6DAIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\משתמש\\OneDrive\\שולחן העבודה\\currencies project\\CurrenciesServer\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\משתמש\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\משתמש\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

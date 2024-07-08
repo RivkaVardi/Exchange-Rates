@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J5/sZg0mPacelOaPMTwHAQz2WhjB7qbmKXdmHPIzlFo/dVfaQmFDmClLPuO2K1WIQhoN+KN4QyFN8bFX2r3s2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\משתמש\\OneDrive\\שולחן העבודה\\currencies project\\CurrenciesServer\\BusinessLogic\\BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\משתמש\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\משתמש\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

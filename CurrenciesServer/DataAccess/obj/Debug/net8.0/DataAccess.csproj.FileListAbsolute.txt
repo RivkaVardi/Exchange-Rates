@@ -1,0 +1,12 @@
+C:\Users\משתמש\OneDrive\שולחן העבודה\currencies project\CurrenciesServer\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\משתמש\OneDrive\שולחן העבודה\currencies project\CurrenciesServer\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\משתמש\OneDrive\שולחן העבודה\currencies project\CurrenciesServer\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\משתמש\OneDrive\שולחן העבודה\currencies project\CurrenciesServer\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\OneDrive\שולחן העבודה\currencies project\CurrenciesServer\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\משתמש\OneDrive\שולחן העבודה\currencies project\CurrenciesServer\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\משתמש\OneDrive\שולחן העבודה\currencies project\CurrenciesServer\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\OneDrive\שולחן העבודה\currencies project\CurrenciesServer\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\משתמש\OneDrive\שולחן העבודה\currencies project\CurrenciesServer\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\משתמש\OneDrive\שולחן העבודה\currencies project\CurrenciesServer\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\משתמש\OneDrive\שולחן העבודה\currencies project\CurrenciesServer\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\משתמש\OneDrive\שולחן העבודה\currencies project\CurrenciesServer\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache

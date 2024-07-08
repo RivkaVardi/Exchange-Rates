@@ -1,0 +1,10 @@
+<mat-form-field>
+    <mat-label>Choose currency</mat-label>
+    <mat-select [(value)]="selectedCurrency">
+        <ng-container *ngFor="let c of currencies">
+            <mat-option [value]="c">{{c}}</mat-option>
+        </ng-container>
+    </mat-select>
+</mat-form-field>
+
+<app-table *ngIf="selectedCurrency" [currency]="selectedCurrency"></app-table>

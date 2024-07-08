@@ -1,0 +1,11 @@
+mat-form-field {
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
+
+app-table {
+    position: absolute;
+    left: 50px;
+    top: 120px;
+}
