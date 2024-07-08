@@ -3,7 +3,7 @@ import { HttpClient } from "@angular/common/http";
 import { Observable } from 'rxjs';
 import { KeyValue } from '@angular/common';
 
-const url: string = "https://localhost:7171/api/Currency/";
+const url: string = "https://localhost:8080/api/Currency/";
 
 @Injectable({
   providedIn: 'root'
